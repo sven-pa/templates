@@ -4,10 +4,7 @@
 
 ## Summary
 
-This SOP describes how the surveillance of the quality management system shall be conducted to ensure ongoing
-adequacy, suitability and efficacy of organizational processes. The organization regularly conducts a
-Management Review to document the assessment of QMS surveillance outputs and overall compliance with
-regulatory requirements.
+This SOP describes how the surveillance of the quality management system shall be conducted to ensure ongoing adequacy, suitability and efficacy of organizational processes. The organization regularly conducts a Management Review to document the assessment of QMS surveillance outputs and overall compliance with regulatory requirements.
 
 |                                |                                                          |
 |--------------------------------|----------------------------------------------------------|
