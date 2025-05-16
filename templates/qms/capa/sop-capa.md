@@ -19,7 +19,7 @@ This SOP describes how CAPAs are implemented and tracked.
 
 ### 1. Input for CAPA
 
-Various events may lead to creation of CAPA. Examples include:
+Various events may lead to the creation of a CAPA. Examples include:
 
  * Product or QMS non-conformities
  * Customer complaints
